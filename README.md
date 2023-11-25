@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun8367&label=Profile%20views&color=0e75b6&style=flat" alt="tarun8367" /> </p>
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarun8367?tab=repositories](https://github.com/tarun8367?tab=repositories)
 
